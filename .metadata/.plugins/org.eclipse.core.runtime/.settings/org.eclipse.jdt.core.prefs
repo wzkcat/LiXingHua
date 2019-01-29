@@ -1,11 +1,12 @@
-#Tue Jan 29 12:48:20 CST 2019
+#Tue Jan 29 13:29:17 CST 2019
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 org.eclipse.jdt.core.compiler.compliance=1.6
-org.eclipse.jdt.core.classpathVariable.JRE_LIB=D\:/2019m10/Common/binary/com.sun.java.jdk.win32.x86_64_1.6.0.013/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=D\:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
 org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 eclipse.preferences.version=1
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.source=1.6
-org.eclipse.jdt.core.classpathVariable.JRE_SRC=D\:/2019m10/Common/binary/com.sun.java.jdk.win32.x86_64_1.6.0.013/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=D\:/Program Files/Java/jdk1.8.0_131/src.zip
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
