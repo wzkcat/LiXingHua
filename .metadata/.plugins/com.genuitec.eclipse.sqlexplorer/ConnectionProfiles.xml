@@ -1,0 +1,18 @@
+<Beans>
+    <Bean Class="com.genuitec.eclipse.sqlexplorer.utils.ConnectionProfile">
+        <activate>false</activate>
+        <driverIdentifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>6e7fba67:16897f0e1b5:-7f95</string>
+        </driverIdentifier>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>6e7fba67:16897f0e1b5:-7fda</string>
+        </identifier>
+        <name>life</name>
+        <password encryption="true">TmttZFMLcNU=</password>
+        <promptForPassword>false</promptForPassword>
+        <schema Indexed="true"/>
+        <schemaDisplayPolicy>2</schemaDisplayPolicy>
+        <url>jdbc:oracle:thin:@localhost:1521:orcl</url>
+        <userName>scott</userName>
+    </Bean>
+</Beans>
